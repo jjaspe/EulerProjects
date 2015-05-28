@@ -1,0 +1,9 @@
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\QuadraticPrimesTests.dll
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\QuadraticPrimesTests.pdb
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\QuadraticPrimes.exe
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\EulerMisc.dll
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\QuadraticPrimes.pdb
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\EulerMisc.pdb
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\QuadraticPrimesTests\obj\Debug\QuadraticPrimesTests.csprojResolveAssemblyReference.cache
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\QuadraticPrimesTests\obj\Debug\QuadraticPrimesTests.dll
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\QuadraticPrimesTests\obj\Debug\QuadraticPrimesTests.pdb

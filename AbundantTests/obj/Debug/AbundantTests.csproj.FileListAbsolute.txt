@@ -1,0 +1,9 @@
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\AbundantTests\bin\Debug\AbundantTests.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\AbundantTests\bin\Debug\AbundantTests.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\AbundantTests\bin\Debug\Abundant.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\AbundantTests\bin\Debug\EulerMisc.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\AbundantTests\bin\Debug\Abundant.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\AbundantTests\bin\Debug\EulerMisc.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\AbundantTests\obj\Debug\AbundantTests.csprojResolveAssemblyReference.cache
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\AbundantTests\obj\Debug\AbundantTests.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\AbundantTests\obj\Debug\AbundantTests.pdb

@@ -1,0 +1,8 @@
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\SundaysOnTheFirst\bin\Debug\SundaysOnTheFirst.exe.config
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\SundaysOnTheFirst\bin\Debug\SundaysOnTheFirst.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\SundaysOnTheFirst\bin\Debug\SundaysOnTheFirst.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\SundaysOnTheFirst\bin\Debug\EulerMisc.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\SundaysOnTheFirst\bin\Debug\EulerMisc.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\SundaysOnTheFirst\obj\Debug\SundaysOnTheFirst.csprojResolveAssemblyReference.cache
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\SundaysOnTheFirst\obj\Debug\SundaysOnTheFirst.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\SundaysOnTheFirst\obj\Debug\SundaysOnTheFirst.pdb

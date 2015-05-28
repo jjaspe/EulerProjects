@@ -1,0 +1,8 @@
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Amicables\bin\Debug\Amicables.exe.config
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Amicables\bin\Debug\Amicables.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Amicables\bin\Debug\Amicables.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Amicables\obj\Debug\Amicables.csprojResolveAssemblyReference.cache
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Amicables\obj\Debug\Amicables.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Amicables\obj\Debug\Amicables.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Amicables\bin\Debug\EulerMisc.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Amicables\bin\Debug\EulerMisc.pdb

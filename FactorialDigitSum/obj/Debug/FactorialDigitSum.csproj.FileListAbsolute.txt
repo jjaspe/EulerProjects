@@ -1,0 +1,8 @@
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\FactorialDigitSum\bin\Debug\FactorialDigitSum.exe.config
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\FactorialDigitSum\bin\Debug\FactorialDigitSum.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\FactorialDigitSum\bin\Debug\FactorialDigitSum.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\FactorialDigitSum\bin\Debug\EulerMisc.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\FactorialDigitSum\bin\Debug\EulerMisc.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\FactorialDigitSum\obj\Debug\FactorialDigitSum.csprojResolveAssemblyReference.cache
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\FactorialDigitSum\obj\Debug\FactorialDigitSum.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\FactorialDigitSum\obj\Debug\FactorialDigitSum.pdb
