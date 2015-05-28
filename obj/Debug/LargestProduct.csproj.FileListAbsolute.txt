@@ -1,0 +1,8 @@
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\EulerProjects\bin\Debug\EulerProjects.exe.config
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\EulerProjects\bin\Debug\EulerProjects.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\EulerProjects\bin\Debug\EulerProjects.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\EulerProjects\bin\Debug\EulerMisc.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\EulerProjects\bin\Debug\EulerMisc.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\EulerProjects\obj\Debug\LargestProduct.csprojResolveAssemblyReference.cache
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\EulerProjects\obj\Debug\EulerProjects.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\EulerProjects\obj\Debug\EulerProjects.pdb
