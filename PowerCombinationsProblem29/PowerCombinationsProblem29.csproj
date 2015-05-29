@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{29B73AD0-AEC6-4175-AD5A-E6359F26CA08}</ProjectGuid>
+    <ProjectGuid>{A5FD6AC2-4200-4996-9451-F9B80549AC8F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>QuinticSumsProblem30</RootNamespace>
-    <AssemblyName>QuinticSumsProblem30</AssemblyName>
+    <RootNamespace>PowerCombinationsProblem29</RootNamespace>
+    <AssemblyName>PowerCombinationsProblem29</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

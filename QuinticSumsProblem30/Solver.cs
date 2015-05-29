@@ -61,7 +61,7 @@ namespace QuinticSumsProblem30
         public double sum;
         public PermutativeSum Copy()
         {
-            PermutativeSum copy=new PermutativeSum;
+            PermutativeSum copy=new PermutativeSum();
             copy.sum=this.sum;
             for(int i=0;i<10;i++)
             {
