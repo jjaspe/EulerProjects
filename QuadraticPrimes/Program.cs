@@ -10,6 +10,10 @@ namespace QuadraticPrimes
     {
         static void Main(string[] args)
         {
+            QuadraticPrimesSolver solver = new QuadraticPrimesSolver();
+            Result result=solver.solver(1000);
+            Console.WriteLine("Product:"+result.product);
+            Console.WriteLine("Count:" + result.count);
         }
     }
 }

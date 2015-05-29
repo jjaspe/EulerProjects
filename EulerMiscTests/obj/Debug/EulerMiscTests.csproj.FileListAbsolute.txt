@@ -5,3 +5,10 @@ C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\EulerMiscTe
 C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\EulerMiscTests\obj\Debug\EulerMiscTests.csprojResolveAssemblyReference.cache
 C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\EulerMiscTests\obj\Debug\EulerMiscTests.dll
 C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\EulerMiscTests\obj\Debug\EulerMiscTests.pdb
+C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMiscTests\bin\Debug\EulerMiscTests.dll
+C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMiscTests\bin\Debug\EulerMiscTests.pdb
+C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMiscTests\bin\Debug\EulerMisc.dll
+C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMiscTests\bin\Debug\EulerMisc.pdb
+C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMiscTests\obj\Debug\EulerMiscTests.csprojResolveAssemblyReference.cache
+C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMiscTests\obj\Debug\EulerMiscTests.dll
+C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMiscTests\obj\Debug\EulerMiscTests.pdb

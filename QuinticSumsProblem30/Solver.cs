@@ -9,7 +9,7 @@ namespace QuinticSumsProblem30
     class Solver
     {
         double UpperBound = 0;
-        public int power = 4;
+        public int power = 5;
         public Logger logger;
         List<PermutativeSum> previousSums = new List<PermutativeSum>();
 
@@ -17,11 +17,45 @@ namespace QuinticSumsProblem30
         {
             UpperBound = findUpperBound();
             List<PermutativeSum> newSums;
-            for(int i=2;i<=UpperBound;i++)
+            double totalSum = 0;
+            //for (int i = 2; i <= UpperBound; i++)
+            //{
+            //    newSums = getSumsWithIDigits(i);
+
+            //}
+            totalSum = getAllSumsBruteForce();
+            return totalSum.ToString();
+        }
+
+        private double getAllSumsBruteForce()
+        {
+            int powerSum;
+            List<PermutativeSum> sums = new List<PermutativeSum>();
+            double runningSum = 0;
+            for(int i=2;i<Math.Pow(10,UpperBound);i++)
             {
-                newSums = getSumsWithIDigits(i);
+                if (i % 10000==0)
+                {
+                    logger("Step:" + i+ " Sum:"+runningSum);
+                }
+                    
+                powerSum = getPowerSum(i);
+                if (powerSum == i)
+                    runningSum += i;
             }
-            return "";
+            return runningSum;
+        }
+
+        private int getPowerSum(int i)
+        {
+            int current = i, sum=0, mod;
+            while(current>0)
+            {
+                mod = current % 10;
+                sum += (int)Math.Pow(mod, power);
+                current /= 10;
+            }
+            return sum;
         }
 
         private List<PermutativeSum> getSumsWithIDigits(int digits)
@@ -61,13 +95,23 @@ namespace QuinticSumsProblem30
         public double sum;
         public PermutativeSum Copy()
         {
-            PermutativeSum copy=new PermutativeSum;
+            PermutativeSum copy = new PermutativeSum();
             copy.sum=this.sum;
             for(int i=0;i<10;i++)
             {
                 copy.digitAmounts[i]=this.digitAmounts[i];
             }
             return copy;
+        }
+
+        public string getHash()
+        {
+            string hash = "";
+            for(int i=0;i<digitAmounts.Length;i++)
+            {
+                hash += digitAmounts[i].ToString();
+            }
+            return hash;
         }
     }
 }

@@ -28,14 +28,19 @@ namespace QuadraticPrimes
 
         public UtilArray getFormulaValues(int a, int b)
         {
-            UtilArray values = new UtilArray(4 * max * max);
+            UtilArray values = new UtilArray(2*b);
 
-            for (int i = 0; i < max; i++)
+            for (int i = -b+1; i < b; i++)
             {
                 values[i] = i * i + a * i + b;
             }
 
             return values;
+        }
+
+        public int getValue(int a,int b,int n)
+        {
+            return n * n + a * n + b;
         }
 
        
@@ -100,31 +105,76 @@ namespace QuadraticPrimes
             return new Result(diff -1, coefB,best);
         }
 
+        /// <summary>
+        /// Also if a is even, 1^2+1*a+b=even, so a must be odd.            
+        /// </summary>
+        /// <param name="index"></param>
+        /// <param name="primes"></param>
+        /// <param name="isPrime"></param>
+        /// <param name="max"></param>
+        /// <returns></returns>
+        public Result getBestProductBruteForce(int index,int[] primes,bool[] isPrime,int max)
+        {
+            int n=0, bestSequenceCount = 0, bestProduct = 0;
+            int b = primes[index],value;
+
+            //Run through all a's
+            for(int a=-max+1;a<max-1;a+=2)
+            {
+                n = 0;
+                if (a == -b)
+                    continue;
+                do
+                {                    
+                    //Get formula value and check if prime
+                    value = getValue(a, b, n++);
+                    if (value > 0 && !isPrime[value])
+                        break;
+                    if (value < 0 && !isPrime[-value])
+                        break;
+                } while (n<b);
+
+                //Update best if needed
+                if (bestSequenceCount < n)
+                {
+                    bestProduct = a * b;
+                    bestSequenceCount = n;   
+                }
+            }
+
+            return new Result(bestProduct/b, b, bestSequenceCount);
+        }
+
         public int getNextInSequence(int index,int a)
         {
             return index * index + index * a;
         }
 
-        //b must be prime for n=0 to work. Also b|a, then a=mb,
+        //b must be prime for n=0 to work. Also if a is even, 1^2+1*a+b=even, so a must be odd.
         
         public Result solver(int n)
         {
-            int[] primes=Util.getPrimes(2*n*n+n);
-            bool[] isPrime=new bool[2*n*n+n];
-            int avIndex = 0;
+            int max = 2 * n * n + n;
+            int[] primes=Util.getPrimes(2*max);
+            bool[] isPrime=new bool[2*max];
+            int indexOfLastPrime = 0,indexOfLastB=0;
             for (int i = 0; i < primes.Length; i++)
             {
-                isPrime[i] = true;
-                if (primes[i] > n && avIndex == 0)
-                    avIndex = i - 1;
+                isPrime[primes[i]] = true;
+                if (primes[i] > n && indexOfLastB==0)
+                    indexOfLastB = i - 1;
+                if (primes[i] > max)
+                {
+                    break;
+                }                    
             }
                
             //Run through all possible primes, get the best product for each
             Result current,bestResult=new Result(1,2,1);
-            for (int i = 0; i < avIndex;i++ )
+            for (int i = 0; i<=indexOfLastB;i++ )
             {
                 //Get positive
-                current = getBestProductForPrime(i, primes, isPrime,avIndex);
+                current = getBestProductBruteForce(i, primes, isPrime,n);
                 if (current.count > bestResult.count)
                     bestResult = current;
             }
