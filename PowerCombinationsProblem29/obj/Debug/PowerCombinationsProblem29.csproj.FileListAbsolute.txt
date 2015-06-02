@@ -6,3 +6,11 @@ C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\PowerCombin
 C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\PowerCombinationsProblem29\bin\Debug\EulerMisc.pdb
 C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\PowerCombinationsProblem29\obj\Debug\PowerCombinationsProblem29.exe
 C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\PowerCombinationsProblem29\obj\Debug\PowerCombinationsProblem29.pdb
+C:\Users\jjaspe\Documents\Git\EulerProjects\PowerCombinationsProblem29\bin\Debug\PowerCombinationsProblem29.exe.config
+C:\Users\jjaspe\Documents\Git\EulerProjects\PowerCombinationsProblem29\bin\Debug\PowerCombinationsProblem29.exe
+C:\Users\jjaspe\Documents\Git\EulerProjects\PowerCombinationsProblem29\bin\Debug\PowerCombinationsProblem29.pdb
+C:\Users\jjaspe\Documents\Git\EulerProjects\PowerCombinationsProblem29\bin\Debug\EulerMisc.dll
+C:\Users\jjaspe\Documents\Git\EulerProjects\PowerCombinationsProblem29\bin\Debug\EulerMisc.pdb
+C:\Users\jjaspe\Documents\Git\EulerProjects\PowerCombinationsProblem29\obj\Debug\PowerCombinationsProblem29.csprojResolveAssemblyReference.cache
+C:\Users\jjaspe\Documents\Git\EulerProjects\PowerCombinationsProblem29\obj\Debug\PowerCombinationsProblem29.exe
+C:\Users\jjaspe\Documents\Git\EulerProjects\PowerCombinationsProblem29\obj\Debug\PowerCombinationsProblem29.pdb

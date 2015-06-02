@@ -46,6 +46,17 @@ namespace EulerMisc
             return (n * (n + 1) / 2);
         }
 
+        public static List<int> GetDigits(double n)
+        {
+            List<int> digits = new List<int>();
+            while(n>1)
+            {
+                digits.Add(((int)(n % 10)));
+                n /= 10;
+            }
+            return digits;
+        }
+
         #region PRIMES
         public static int[] getPrimes(int n)
         {
@@ -86,6 +97,12 @@ namespace EulerMisc
         #endregion
 
         #region FACTORS
+
+        public class FactorTuple
+        {
+            public double factor1, factor2;
+        }
+
         /// <summary>
         /// Returns an array where array[i]=number of divisors of i.
         /// if n=p1^a1*p2^a2....
@@ -161,7 +178,6 @@ namespace EulerMisc
         {
             return (Math.Pow(prime, power + 1) - 1) / (prime - 1);
         }
-
         /// <summary>
         /// Returns the prime factorization of n the following way:
         /// UtilArray[0] contains the indexes of the primes in primes array
@@ -199,7 +215,6 @@ namespace EulerMisc
             return primeFact;
         }
 
-
         public static UtilArray[] getPrimeFactorization(int n,int[] primes)
         {
             UtilArray[] primeFact = new UtilArray[2];// primes.Length];
@@ -223,6 +238,17 @@ namespace EulerMisc
             primeFact[0].trimAny(0);
             primeFact[1].trimAny(0);
             return primeFact;
+        }
+
+        public static List<FactorTuple> getFactorTuples(double value)
+        {
+            List<FactorTuple> tuples = new List<FactorTuple>();
+            for(int i=2;i*i<value;i++)
+            {
+                if (value % i == 0)
+                    tuples.Add(new FactorTuple() { factor1 = i, factor2 = value / i });
+            }
+            return tuples;
         }
 
         #endregion

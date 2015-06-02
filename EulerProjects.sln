@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerCombinationsProblem29"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinSumsProblem31", "CoinSums\CoinSumsProblem31.csproj", "{4A14CB0A-26F1-498F-AD7B-4F163AD768AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandigitalProducts", "PandigitalProducts\PandigitalProducts.csproj", "{22C29EA2-A76E-40AA-9971-FF04A115C0DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{4A14CB0A-26F1-498F-AD7B-4F163AD768AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A14CB0A-26F1-498F-AD7B-4F163AD768AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A14CB0A-26F1-498F-AD7B-4F163AD768AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C29EA2-A76E-40AA-9971-FF04A115C0DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C29EA2-A76E-40AA-9971-FF04A115C0DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C29EA2-A76E-40AA-9971-FF04A115C0DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C29EA2-A76E-40AA-9971-FF04A115C0DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
