@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EulerMisc", "EulerMisc\EulerMisc.csproj", "{0087CC1E-C621-489C-A0E1-515CD861A6CF}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuinticSumsProblem30", "QuinticSumsProblem30\QuinticSumsProblem30.csproj", "{29B73AD0-AEC6-4175-AD5A-E6359F26CA08}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerCombinationsProblem29", "PowerCombinationsProblem29\PowerCombinationsProblem29.csproj", "{A5FD6AC2-4200-4996-9451-F9B80549AC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinSumsProblem31", "CoinSums\CoinSumsProblem31.csproj", "{4A14CB0A-26F1-498F-AD7B-4F163AD768AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{A5FD6AC2-4200-4996-9451-F9B80549AC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5FD6AC2-4200-4996-9451-F9B80549AC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5FD6AC2-4200-4996-9451-F9B80549AC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A14CB0A-26F1-498F-AD7B-4F163AD768AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A14CB0A-26F1-498F-AD7B-4F163AD768AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A14CB0A-26F1-498F-AD7B-4F163AD768AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A14CB0A-26F1-498F-AD7B-4F163AD768AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
