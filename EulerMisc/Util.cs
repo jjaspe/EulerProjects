@@ -57,6 +57,63 @@ namespace EulerMisc
             return digits;
         }
 
+        public static int GetNumberFromDigits(List<int> perm)
+        {
+            int value = 0;
+            for(int i=0;i<perm.Count;i++)
+            {
+                value = value * 10 + perm[i];
+            }
+            return value;
+        }
+
+        public static List<List<int>> GetPermutationsOfDigits(List<int> digits)
+        {
+            List<List<int>> perms = getPermutationsRecursive(digits);
+            return perms;
+        }
+
+        static List<List<int>> getPermutationsRecursive(List<int> available)
+        {
+            int front;
+            List<List<int>> currentPerms = new List<List<int>>(), myPerms = new List<List<int>>() ;
+            List<int> copy;
+            //Go throuhg all available numbers, take one out each time, get all possible permutations of remaining, 
+            //stick the taken value to the front of those permutations
+            //When we are down to two values, just return those two permutations
+            if(available.Count==2)
+            {
+                List<int> permOne =new List<int> () { available[0], available[1] }, 
+                    permTwo = new List<int>(){ available[1], available[0] };
+                return new List<List<int>>(){permOne,permTwo};
+            }
+
+            if(available.Count==1)
+                return new List<List<int>>() { new List<int>() {available[0]}};
+
+            for(int i=0;i<available.Count;i++)
+            {                
+                front = available[i];
+                copy = copyList(available);
+                copy.RemoveAt(i);
+                currentPerms = getPermutationsRecursive(copy);
+                foreach(List<int> perm in currentPerms)
+                {
+                    List<int> newPerm = new List<int>() { front };
+                    newPerm.AddRange(perm);
+                    myPerms.Add(newPerm);
+                }
+            }
+            return myPerms;
+        }
+
+        static List<int> copyList(List<int> original)
+        {
+            List<int> copy = new List<int>();
+            foreach (int i in original)
+                copy.Add(i);
+            return copy;
+        }
         #region PRIMES
         public static int[] getPrimes(int n)
         {
@@ -705,5 +762,21 @@ namespace EulerMisc
             return strings;          
 
         }
+
+        public static bool[] GetPrimesBoolArray(int[] p)
+        {
+            int length = p[p.Length - 1];
+            int decimalPlaces = (int)Math.Log10(length)+1;
+            bool[] primeBools = new bool[(int)Math.Pow(10,decimalPlaces)];
+            for(int i=0;i<p.Length;i++)
+            {
+                primeBools[p[i]] = true;
+            }
+            return primeBools;
+        }
+
+
+
+        
     }
 }

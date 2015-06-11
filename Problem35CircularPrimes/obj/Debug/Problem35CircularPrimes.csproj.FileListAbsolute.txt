@@ -1,0 +1,8 @@
+C:\Users\jjaspe\Documents\Git\EulerProjects\Problem35CircularPrimes\obj\Debug\Problem35CircularPrimes.csprojResolveAssemblyReference.cache
+C:\Users\jjaspe\Documents\Git\EulerProjects\Problem35CircularPrimes\bin\Debug\Problem35CircularPrimes.exe.config
+C:\Users\jjaspe\Documents\Git\EulerProjects\Problem35CircularPrimes\bin\Debug\Problem35CircularPrimes.exe
+C:\Users\jjaspe\Documents\Git\EulerProjects\Problem35CircularPrimes\bin\Debug\Problem35CircularPrimes.pdb
+C:\Users\jjaspe\Documents\Git\EulerProjects\Problem35CircularPrimes\bin\Debug\EulerMisc.dll
+C:\Users\jjaspe\Documents\Git\EulerProjects\Problem35CircularPrimes\bin\Debug\EulerMisc.pdb
+C:\Users\jjaspe\Documents\Git\EulerProjects\Problem35CircularPrimes\obj\Debug\Problem35CircularPrimes.exe
+C:\Users\jjaspe\Documents\Git\EulerProjects\Problem35CircularPrimes\obj\Debug\Problem35CircularPrimes.pdb
