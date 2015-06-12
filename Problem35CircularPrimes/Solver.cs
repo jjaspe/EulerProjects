@@ -15,16 +15,16 @@ namespace Problem35CircularPrimes
             bool[] isPrime = Util.GetPrimesBoolArray(primes);
             List<List<int>> digitizedPrimes = removeObviousNonCirculars(digitize(primes));
             
-            List<int> currentPerm;
+            List<int> currentRotations;
             bool circular;
 
             int count = 0;
             for(int i=0;i<digitizedPrimes.Count;i++)
             {
                 Console.WriteLine(i);
-                currentPerm = getPermutations(digitizedPrimes[i]);
+                currentRotations = getRotations(digitizedPrimes[i]);
                 circular = true;
-                foreach(int j in currentPerm)
+                foreach(int j in currentRotations)
                 {
                     if(!isPrime[j])
                     {
@@ -33,7 +33,10 @@ namespace Problem35CircularPrimes
                     }
                 }
                 if (circular)
+                {
                     count++;
+                    Console.WriteLine("Prime:" + currentRotations[0]);
+                }
             }
             return count;
         }
@@ -48,16 +51,16 @@ namespace Problem35CircularPrimes
             return digitizedPrimes;
         }
 
-        public static List<int> getPermutations(List<int> digits)
+        public static List<int> getRotations(List<int> digits)
         {
-            List<int> permutations = new List<int>();
+            List<int> rotations = new List<int>();
 
-            List<List<int>> permutedDigits = Util.GetPermutationsOfDigits(digits);
-            foreach(List<int> perm in permutedDigits)
+            List<List<int>> rotatedDigits = Util.GetRotationsOfDigits(digits);
+            foreach(List<int> rotation in rotatedDigits)
             {
-                permutations.Add(Util.GetNumberFromDigits(perm));
+                rotations.Add(Util.GetNumberFromDigits(rotation));
             }
-            return permutations;
+            return rotations;
         }
 
         static List<List<int>> removeObviousNonCirculars(List<List<int>> digitized)

@@ -46,6 +46,11 @@ namespace EulerMisc
             return (n * (n + 1) / 2);
         }
 
+        /// <summary>
+        /// Least significant at index=0
+        /// </summary>
+        /// <param name="n"></param>
+        /// <returns></returns>
         public static List<int> GetDigits(double n)
         {
             List<int> digits = new List<int>();
@@ -57,14 +62,42 @@ namespace EulerMisc
             return digits;
         }
 
+        /// <summary>
+        /// Expects least significant at 0
+        /// </summary>
+        /// <param name="perm"></param>
+        /// <returns></returns>
         public static int GetNumberFromDigits(List<int> perm)
         {
             int value = 0;
-            for(int i=0;i<perm.Count;i++)
+            for(int i=perm.Count-1;i>=0;i--)
             {
                 value = value * 10 + perm[i];
             }
             return value;
+        }
+
+        public static List<List<int>> GetRotationsOfDigits(List<int> digits)
+        {
+            List<List<int>> rotations = new List<List<int>>();
+            List<int> current=digits;
+            for(int i=0;i<digits.Count;i++)
+            {
+                rotations.Add(current);
+                current = rotate(current);
+            }
+            return rotations;
+        }
+
+        static List<int> rotate(List<int> original)
+        {
+            List<int> newOne = new List<int>();
+            for(int i=1;i<original.Count;i++)
+            {
+                newOne.Add(original[i]);
+            }
+            newOne.Add(original[0]);
+            return newOne;
         }
 
         public static List<List<int>> GetPermutationsOfDigits(List<int> digits)
