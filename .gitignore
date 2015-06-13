@@ -43,3 +43,30 @@ Temporary Items
 .apdisk
 *.dll
 *.pdb
+
+#ignore thumbnails created by windows
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*

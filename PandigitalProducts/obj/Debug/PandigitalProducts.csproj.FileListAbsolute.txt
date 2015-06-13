@@ -1,8 +1,0 @@
-C:\Users\jjaspe\Documents\Git\EulerProjects\PandigitalProducts\bin\Debug\PandigitalProducts.exe.config
-C:\Users\jjaspe\Documents\Git\EulerProjects\PandigitalProducts\bin\Debug\PandigitalProducts.exe
-C:\Users\jjaspe\Documents\Git\EulerProjects\PandigitalProducts\bin\Debug\PandigitalProducts.pdb
-C:\Users\jjaspe\Documents\Git\EulerProjects\PandigitalProducts\bin\Debug\EulerMisc.dll
-C:\Users\jjaspe\Documents\Git\EulerProjects\PandigitalProducts\bin\Debug\EulerMisc.pdb
-C:\Users\jjaspe\Documents\Git\EulerProjects\PandigitalProducts\obj\Debug\PandigitalProducts.exe
-C:\Users\jjaspe\Documents\Git\EulerProjects\PandigitalProducts\obj\Debug\PandigitalProducts.pdb
-C:\Users\jjaspe\Documents\Git\EulerProjects\PandigitalProducts\obj\Debug\PandigitalProducts.csprojResolveAssemblyReference.cache

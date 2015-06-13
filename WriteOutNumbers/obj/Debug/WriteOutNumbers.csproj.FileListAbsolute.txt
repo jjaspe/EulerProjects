@@ -1,5 +1,0 @@
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\WriteOutNumbers\bin\Debug\WriteOutNumbers.exe.config
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\WriteOutNumbers\bin\Debug\WriteOutNumbers.exe
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\WriteOutNumbers\bin\Debug\WriteOutNumbers.pdb
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\WriteOutNumbers\obj\Debug\WriteOutNumbers.exe
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\WriteOutNumbers\obj\Debug\WriteOutNumbers.pdb

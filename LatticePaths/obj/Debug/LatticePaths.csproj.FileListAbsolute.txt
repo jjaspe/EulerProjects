@@ -1,8 +1,0 @@
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LatticePaths\bin\Debug\LatticePaths.exe.config
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LatticePaths\bin\Debug\LatticePaths.exe
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LatticePaths\bin\Debug\LatticePaths.pdb
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LatticePaths\bin\Debug\EulerMisc.dll
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LatticePaths\bin\Debug\EulerMisc.pdb
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LatticePaths\obj\Debug\LatticePaths.exe
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LatticePaths\obj\Debug\LatticePaths.pdb
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LatticePaths\obj\Debug\LatticePaths.csprojResolveAssemblyReference.cache

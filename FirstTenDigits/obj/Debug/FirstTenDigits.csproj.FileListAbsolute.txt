@@ -1,4 +1,0 @@
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\FirstTenDigits\bin\Debug\EulerProjects.exe
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\FirstTenDigits\bin\Debug\EulerProjects.pdb
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\FirstTenDigits\obj\Debug\EulerProjects.exe
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\FirstTenDigits\obj\Debug\EulerProjects.pdb
