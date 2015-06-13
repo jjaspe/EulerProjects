@@ -127,7 +127,7 @@ namespace EulerMisc
             for(int i=0;i<available.Count;i++)
             {                
                 front = available[i];
-                copy = copyList(available);
+                copy = CopyList(available);
                 copy.RemoveAt(i);
                 currentPerms = getPermutationsRecursive(copy);
                 foreach(List<int> perm in currentPerms)
@@ -140,13 +140,68 @@ namespace EulerMisc
             return myPerms;
         }
 
-        static List<int> copyList(List<int> original)
+        /// <summary>
+        /// Returns a list with all digit combinations of number (i.e. {1,2} means you picked the second and third digits)
+        /// </summary>
+        /// <param name="number"></param>
+        /// <param name="toChoose">how many digits to choose (i.e toChoose=2 means you'll get {{0,1},{0,2},{1,2}} etch</param>
+        /// <returns></returns>
+        public static List<List<int>> GetCombinationsOfDigits(int number, int toChoose)
+        {
+            int digitCount = GetDigits(number).Count;
+            return GetCombinationsOfDigitsIndicesRecursive(0, digitCount - 1, toChoose);
+        }
+
+        //Run through every spot, put different digits in it, but only higher than the last one used,
+        //so there are no repetitions.
+        //Since order doesn't matter in combinations, we can always take the ordered element of every equivalence class as its
+        //representative.
+        static List<List<int>> GetCombinationsOfDigitsIndicesRecursive(int last, int lastPossible, int toChoose)
+        {
+            List<List<int>> lists = new List<List<int>>(), innerLists;
+
+            for (int i = last + 1; i <= lastPossible; i++)
+            {
+                if (toChoose == 1)
+                {
+                    lists.Add(new List<int> { i });
+                }
+                else
+                {
+                    innerLists = GetCombinationsOfDigitsIndicesRecursive(i, lastPossible, toChoose - 1);
+                    foreach (List<int> list in innerLists)
+                    {
+                        List<int> newList = new List<int>() { i };
+                        newList.AddRange(list);
+                        lists.Add(newList);
+                    }
+                }
+            }
+            return lists;
+        }
+
+        public static void PrintListOfList(List<List<int>> combinations)
+        {
+            foreach (List<int> list in combinations)
+            {
+                Console.Write("{");
+                foreach (int i in list)
+                {
+                    Console.Write(i + ",");
+                }
+                Console.Write("}");
+                Console.WriteLine();
+            }
+        }
+
+        public static List<int> CopyList(List<int> original)
         {
             List<int> copy = new List<int>();
             foreach (int i in original)
                 copy.Add(i);
             return copy;
         }
+
         #region PRIMES
         public static int[] getPrimes(int n)
         {
@@ -690,6 +745,11 @@ namespace EulerMisc
                 Console.WriteLine(i + ",");
         }
 
+        public static void printIntList(List<int> list)
+        {
+            printIntArray(list.ToArray());
+        }
+
         public static string getIntArrayAsString(int[] array)
         {
             string s = "";
@@ -808,8 +868,5 @@ namespace EulerMisc
             return primeBools;
         }
 
-
-
-        
     }
 }
