@@ -1,8 +1,0 @@
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Abundant\bin\Debug\Abundant.exe.config
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Abundant\bin\Debug\Abundant.exe
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Abundant\bin\Debug\Abundant.pdb
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Abundant\bin\Debug\EulerMisc.dll
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Abundant\bin\Debug\EulerMisc.pdb
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Abundant\obj\Debug\Abundant.csprojResolveAssemblyReference.cache
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Abundant\obj\Debug\Abundant.exe
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Abundant\obj\Debug\Abundant.pdb
