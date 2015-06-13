@@ -1,0 +1,9 @@
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\EulerMisc\bin\Debug\EulerMisc.dll
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\EulerMisc\bin\Debug\EulerMisc.pdb
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\EulerMisc\obj\Debug\EulerMisc.dll
+C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\EulerMisc\obj\Debug\EulerMisc.pdb
+C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMisc\bin\Debug\EulerMisc.dll
+C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMisc\bin\Debug\EulerMisc.pdb
+C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMisc\obj\Debug\EulerMisc.dll
+C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMisc\obj\Debug\EulerMisc.pdb
+C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMisc\obj\Debug\EulerMisc.csprojResolveAssemblyReference.cache

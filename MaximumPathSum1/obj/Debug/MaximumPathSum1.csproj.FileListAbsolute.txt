@@ -1,0 +1,8 @@
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\MaximumPathSum1\obj\Debug\MaximumPathSum1.csprojResolveAssemblyReference.cache
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\MaximumPathSum1\bin\Debug\MaximumPathSum1.exe.config
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\MaximumPathSum1\bin\Debug\MaximumPathSum1.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\MaximumPathSum1\bin\Debug\MaximumPathSum1.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\MaximumPathSum1\bin\Debug\EulerMisc.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\MaximumPathSum1\bin\Debug\EulerMisc.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\MaximumPathSum1\obj\Debug\MaximumPathSum1.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\MaximumPathSum1\obj\Debug\MaximumPathSum1.pdb

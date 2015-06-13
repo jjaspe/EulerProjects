@@ -1,0 +1,9 @@
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\CollatzTests\bin\Debug\CollatzTests.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\CollatzTests\bin\Debug\CollatzTests.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\CollatzTests\bin\Debug\Collatz.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\CollatzTests\bin\Debug\EulerMisc.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\CollatzTests\bin\Debug\Collatz.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\CollatzTests\bin\Debug\EulerMisc.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\CollatzTests\obj\Debug\CollatzTests.csprojResolveAssemblyReference.cache
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\CollatzTests\obj\Debug\CollatzTests.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\CollatzTests\obj\Debug\CollatzTests.pdb

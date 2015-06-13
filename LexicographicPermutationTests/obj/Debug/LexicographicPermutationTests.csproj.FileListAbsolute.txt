@@ -1,0 +1,9 @@
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LexicographicPermutationTests\obj\Debug\LexicographicPermutationTests.csprojResolveAssemblyReference.cache
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LexicographicPermutationTests\bin\Debug\LexicographicPermutationTests.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LexicographicPermutationTests\bin\Debug\LexicographicPermutationTests.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LexicographicPermutationTests\bin\Debug\LexicographicPermutation.exe
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LexicographicPermutationTests\bin\Debug\EulerMisc.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LexicographicPermutationTests\bin\Debug\LexicographicPermutation.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LexicographicPermutationTests\bin\Debug\EulerMisc.pdb
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LexicographicPermutationTests\obj\Debug\LexicographicPermutationTests.dll
+C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LexicographicPermutationTests\obj\Debug\LexicographicPermutationTests.pdb
