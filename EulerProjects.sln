@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem35CircularPrimes", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem51PrimeDigitReplacements", "Problem51PrimeDigitReplacements\Problem51PrimeDigitReplacements.csproj", "{AA141C9B-B47E-4E92-81F8-BCCA9F9188F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PentagonalNumbers", "PentagonalNumbers\PentagonalNumbers.csproj", "{F519BDB4-BA34-4858-AC78-38CC7F39388A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{AA141C9B-B47E-4E92-81F8-BCCA9F9188F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA141C9B-B47E-4E92-81F8-BCCA9F9188F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA141C9B-B47E-4E92-81F8-BCCA9F9188F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F519BDB4-BA34-4858-AC78-38CC7F39388A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F519BDB4-BA34-4858-AC78-38CC7F39388A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F519BDB4-BA34-4858-AC78-38CC7F39388A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F519BDB4-BA34-4858-AC78-38CC7F39388A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
