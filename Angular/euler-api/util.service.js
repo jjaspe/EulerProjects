@@ -33,6 +33,24 @@ module.exports.digitize = function (n) {
     return digits;
 }
 
+module.exports.partition = function (length){
+    var partiton = function(length){
+        if(length==1){
+            return ['0','1'];
+        }
+        else{
+            var previous=partiton(length-1);
+            var next=[];
+            previous.forEach(function(element) {
+                next.push(element + '0');
+                next.push(element + '1');
+            });
+            return next;
+        }
+    }
+    return partiton(length);
+}
+
 module.exports.triangle = function (n){
     var triangle = [];
     for(var k=1;k<n;k++){
