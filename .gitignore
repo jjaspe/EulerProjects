@@ -35,6 +35,12 @@ $RECYCLE.BIN/
 .Spotlight-V100
 .Trashes
 
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
@@ -43,3 +49,26 @@ Temporary Items
 .apdisk
 *.dll
 *.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+node_modules/*
