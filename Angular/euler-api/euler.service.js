@@ -3,7 +3,7 @@
     primes = [];
     var util = require('./util.service');
     var data = require('./data.service');
-
+    var strint = require('./strint');
 
 
     var problem313 = function () {
@@ -381,35 +381,104 @@
         return sum;
     }
 
+    //32456,8,"11011" => 88488
     //Loop through n, digitize n, generate partition array, for each partition replace digits at 1 with same digit
     //Check if 8 primes
-    var problem51 = function (max){
-        var replaceDigits(orig,rep,partition){
-             var stringValue=orig+"";
-              for(var i=0;i<partition.length;i++){
-                  if(partition[i]=='1'){
-                      stringValue[i]=rep;
-                  }
-              }
-              return stringValue*1;
-        }
-        var primes=primeGen(max);
-        
-        for(var i=0;i<max;i++){
-            var digits=i+"";
-            var partitions = util.partitions(digits.length);
-            for(var j=0;partitions[j];j++){
-                var primeCount=0;
-                for(var k=0;k<10;k++){
-                     if(!primes[replaceDigits(digits,k+"",partitions[j])])
-                       primeCount;
+    var problem51 = function (max) {
+        var replaceDigits = function (orig, rep, partition) {
+            var stringValue = "" + orig;
+            var newValue = "";
+            for (var i = 0; i < partition.length; i++) {
+                if (partition[i] == '1') {
+                    newValue += '' + rep;
                 }
-                if(primeCount==8)
-                   return "found at i:"+i;
+                else
+                    newValue += stringValue[i];
+            }
+            return newValue * 1;
+        }
+
+        var getMaxCount = function (n, primes, printStuff) {
+            n = "" + n;
+            var partitions = util.partitions(n.length);
+            var maxCount = 0;
+            partitions.splice(0, 1); //delete first as it changes nothing
+            for (var j = 0; j < partitions.length; j++) {
+                for (var k = 0, primeCount = 0; k < 10 && k - primeCount < 3; k++) {
+                    var newNumber = replaceDigits(n, k, partitions[j]);
+                    if ((newNumber + "").length < n.length)
+                        continue;
+                    if (!primes[newNumber]) {
+                        primeCount++;
+                        if (printStuff)
+                            console.log("new:" + newNumber + ", partition:" + partitions[j]);
+                    }
+                }
+                if (primeCount > maxCount) {
+                    maxCount = primeCount;
+                    if (printStuff)
+                        console.log("n:" + n + ", partition:" + partitions[j] + ",primeCount:" + primeCount);
+                }
+            }
+            return maxCount;
+        }
+
+        var primes = util.primeGen(max * 10);
+        var maxCount = 0, currentCount;
+        for (var i = 100; i < max; i++) {
+            currentCount = getMaxCount(i + "", primes, false);
+            if (currentCount > maxCount) {
+                console.log("New Max:" + currentCount);
+                getMaxCount(i + "", primes, true);
+                maxCount = currentCount;
+            }
+            if (maxCount == 8) {
+                return 'max at:' + i;
             }
         }
-        return "try larger";
+    }
 
+    var problem66 = function (max) {
+        var findMinSolution = function (d) {
+            var coeffs = util.continuedFraction(Math.sqrt(d),100);
+            var hpp="0",hp="1",kpp="1",kp="0";
+            for(var i=0;i<coeffs.length;i++){
+                newArray=getConvergent(coeffs[i],hp,hpp,kp,kpp);
+                x=newArray[0]+"";
+                y=newArray[1]+"";
+                if(!strint.eq(strint.sub(strint.mul(x,x),strint.mul(d+"",strint.mul(y,y))),"1")){
+                    hpp=hp;
+                    kpp=kp;
+                    hp=x;
+                    kp=y;
+                }
+                else{
+                    if( d == 61)
+                    console.log(x);
+                    return x;
+                } 
+            }
+            if( d == 61)
+                console.log(x);
+        }
+        
+        var getConvergent = function(a,h1,h2,k1,k2){
+            return [a*h1+h2,a*k1+k2];
+        }
+
+        var highestX = "0", highestD = "0";
+        for (var d = 1; d <= max; d++) {
+            
+            if (Math.sqrt(d) % 1 == 0)
+                continue;
+            current = findMinSolution(d);
+            if ( st.gt(current , highestX)) {
+                highestX = current;
+                highestD = d;
+                console.log("D:" + d +", highestD:"+highestD + ",highestX:"+highestX);
+            }
+        }
+        return highestD;
     }
 
     module.exports.solve = function (id) {
