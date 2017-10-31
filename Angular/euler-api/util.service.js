@@ -1,12 +1,20 @@
+
 module.exports.primeGen = function (max) {
-    primes[0] = 1;
-    primes[1] = 1;
+    var primes = [1,1];
     for (var i = 2; i <= max / 2 + 1; i++) {
         for (var j = i * i; j <= max; j += i) {
             primes[j] = 1;
         }
     }
     return primes;
+}
+
+module.exports.isPrime = function (n) {
+    var i = 2;
+    while(i*i<=n)
+        if(n%i++==0)
+            return false;
+    return true;
 }
 
 module.exports.factorial = function (n) {

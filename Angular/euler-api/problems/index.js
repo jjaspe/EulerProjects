@@ -6,6 +6,7 @@ var primes = [];
 
 import problem313 from './problem313'
 import problem57 from './problem57'
+import problem146 from './problem146'
 
 
     var problem314 = function () {
@@ -459,5 +460,6 @@ import problem57 from './problem57'
 
 export default {
     problem313,
-    problem57
+    problem57,
+    problem146
 };
