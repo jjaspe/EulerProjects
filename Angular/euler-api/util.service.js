@@ -62,6 +62,10 @@ module.exports.digitize = function (n) {
     return digits;
 }
 
+module.exports.numberOfDigits = function (n) {
+    return (""+n).length;
+}
+
 module.exports.partitions = function (length) {
     var partiton = function (length) {
         if (length == 1) {

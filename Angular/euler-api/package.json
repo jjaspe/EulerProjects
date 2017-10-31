@@ -1,15 +1,21 @@
 {
   "name": "euler-service",
   "version": "1.0.0",
-  "description": "A Node.js backend that solves ProjectEuler problems",  
+  "description": "A Node.js backend that solves ProjectEuler problems",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js --exec && babel server.js -o compiled.js && babel-node server.js"
   },
   "dependencies": {
+    "babel-register": "^6.26.0",
     "body-parser": "^1.13.3",
-    "express": "^4.13.3",
-    "mongodb": "^2.1.6"
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",    
+    "babel-preset-stage-2": "^6.11.0",
+    "nodemon": "^1.10.0"
   }
 }
