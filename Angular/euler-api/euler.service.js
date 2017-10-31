@@ -5,7 +5,7 @@ export default {
 
     solveWithParams: (id, param) => {
         var problemName = "problem"+id;
-        return problems[problemName](param)
+        return problems[problemName](param);
     }
 }
 

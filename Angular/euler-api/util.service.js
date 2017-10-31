@@ -1,9 +1,32 @@
+module.exports.primer = {
+    maxIndex:10000,
+    primeLists:[],
+    generate: function(max){
+        var listIndex = 0, index=0;
+        this.primeLists[0] = [true, true];
+        for (var i = 2; i <= max / 2 + 1; i++) {
+            for (var j = i * i; j <= max; j += i) {
+                listIndex = Math.floor(j/this.maxIndex);
+                index = j%this.maxIndex;
+                if(!this.primeLists[listIndex])
+                    this.primeLists[listIndex] = [];
+                this.primeLists[listIndex][index] = true
+            }
+        }
+        console.log(this.primeLists)
+    },
+    isPrime: function(n){
+        var listIndex = Math.floor(n/this.maxIndex);
+        var index= n % this.maxIndex;
+        return !this.primeLists[listIndex][index];
+    }
+}
 
 module.exports.primeGen = function (max) {
-    var primes = [1,1];
+    var primes = [true,true];
     for (var i = 2; i <= max / 2 + 1; i++) {
         for (var j = i * i; j <= max; j += i) {
-            primes[j] = 1;
+            primes[j] = true;
         }
     }
     return primes;
