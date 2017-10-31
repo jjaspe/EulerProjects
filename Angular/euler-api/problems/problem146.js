@@ -18,16 +18,16 @@ export default function (max) {
                 sum+=n;
                 found.push(n);
             }
-        var inc = 0, i4=i%4;
-        if(i4 == 0 )
-            inc = 15;
-        else if (i4 == 1)
-            inc = 70;
-        else 
-            inc = 20;
+        var inc = 0, i4=i%3;
+        switch(i4)
+        {
+            case 0: inc = 120;break;
+            case 1: inc = 70; break;
+            case 2: inc = 20; break;
+        }
 
         n = n + inc;
-        console.log("checking:"+n)
+        //console.log("checking:"+n)
         i = (i+1)%3;
     }
     console.log(found);
