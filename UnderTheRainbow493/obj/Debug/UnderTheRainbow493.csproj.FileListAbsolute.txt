@@ -6,3 +6,11 @@ C:\Users\jjaspe\Documents\Git\EulerProjects\UnderTheRainbow493\bin\Debug\EulerMi
 C:\Users\jjaspe\Documents\Git\EulerProjects\UnderTheRainbow493\obj\Debug\UnderTheRainbow493.csprojResolveAssemblyReference.cache
 C:\Users\jjaspe\Documents\Git\EulerProjects\UnderTheRainbow493\obj\Debug\UnderTheRainbow493.exe
 C:\Users\jjaspe\Documents\Git\EulerProjects\UnderTheRainbow493\obj\Debug\UnderTheRainbow493.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\UnderTheRainbow493\bin\Debug\UnderTheRainbow493.exe.config
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\UnderTheRainbow493\bin\Debug\UnderTheRainbow493.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\UnderTheRainbow493\bin\Debug\UnderTheRainbow493.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\UnderTheRainbow493\bin\Debug\EulerMisc.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\UnderTheRainbow493\bin\Debug\EulerMisc.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\UnderTheRainbow493\obj\Debug\UnderTheRainbow493.csproj.CopyComplete
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\UnderTheRainbow493\obj\Debug\UnderTheRainbow493.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\UnderTheRainbow493\obj\Debug\UnderTheRainbow493.pdb

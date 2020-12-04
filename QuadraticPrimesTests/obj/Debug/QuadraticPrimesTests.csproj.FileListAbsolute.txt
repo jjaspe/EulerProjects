@@ -16,3 +16,15 @@ C:\Users\jjaspe\Documents\Git\EulerProjects\QuadraticPrimesTests\bin\Debug\Euler
 C:\Users\jjaspe\Documents\Git\EulerProjects\QuadraticPrimesTests\obj\Debug\QuadraticPrimesTests.csprojResolveAssemblyReference.cache
 C:\Users\jjaspe\Documents\Git\EulerProjects\QuadraticPrimesTests\obj\Debug\QuadraticPrimesTests.dll
 C:\Users\jjaspe\Documents\Git\EulerProjects\QuadraticPrimesTests\obj\Debug\QuadraticPrimesTests.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\QuadraticPrimesTests.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\QuadraticPrimesTests.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\QuadraticPrimes.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\EulerMisc.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\QuadraticPrimes.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\QuadraticPrimes.exe.config
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimesTests\bin\Debug\EulerMisc.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimesTests\obj\Debug\QuadraticPrimesTests.csprojAssemblyReference.cache
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimesTests\obj\Debug\QuadraticPrimesTests.csproj.CopyComplete
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimesTests\obj\Debug\QuadraticPrimesTests.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimesTests\obj\Debug\QuadraticPrimesTests.pdb

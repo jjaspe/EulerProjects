@@ -14,3 +14,12 @@ C:\Users\jjaspe\Documents\Git\EulerProjects\PowerCombinationsProblem29\bin\Debug
 C:\Users\jjaspe\Documents\Git\EulerProjects\PowerCombinationsProblem29\obj\Debug\PowerCombinationsProblem29.csprojResolveAssemblyReference.cache
 C:\Users\jjaspe\Documents\Git\EulerProjects\PowerCombinationsProblem29\obj\Debug\PowerCombinationsProblem29.exe
 C:\Users\jjaspe\Documents\Git\EulerProjects\PowerCombinationsProblem29\obj\Debug\PowerCombinationsProblem29.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PowerCombinationsProblem29\bin\Debug\PowerCombinationsProblem29.exe.config
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PowerCombinationsProblem29\bin\Debug\PowerCombinationsProblem29.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PowerCombinationsProblem29\bin\Debug\PowerCombinationsProblem29.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PowerCombinationsProblem29\bin\Debug\EulerMisc.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PowerCombinationsProblem29\bin\Debug\EulerMisc.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PowerCombinationsProblem29\obj\Debug\PowerCombinationsProblem29.csproj.CopyComplete
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PowerCombinationsProblem29\obj\Debug\PowerCombinationsProblem29.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PowerCombinationsProblem29\obj\Debug\PowerCombinationsProblem29.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PowerCombinationsProblem29\obj\Debug\PowerCombinationsProblem29.csprojAssemblyReference.cache

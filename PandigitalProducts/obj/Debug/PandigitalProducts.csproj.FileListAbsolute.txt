@@ -6,3 +6,11 @@ C:\Users\jjaspe\Documents\Git\EulerProjects\PandigitalProducts\bin\Debug\EulerMi
 C:\Users\jjaspe\Documents\Git\EulerProjects\PandigitalProducts\obj\Debug\PandigitalProducts.exe
 C:\Users\jjaspe\Documents\Git\EulerProjects\PandigitalProducts\obj\Debug\PandigitalProducts.pdb
 C:\Users\jjaspe\Documents\Git\EulerProjects\PandigitalProducts\obj\Debug\PandigitalProducts.csprojResolveAssemblyReference.cache
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PandigitalProducts\bin\Debug\PandigitalProducts.exe.config
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PandigitalProducts\bin\Debug\PandigitalProducts.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PandigitalProducts\bin\Debug\PandigitalProducts.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PandigitalProducts\bin\Debug\EulerMisc.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PandigitalProducts\bin\Debug\EulerMisc.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PandigitalProducts\obj\Debug\PandigitalProducts.csproj.CopyComplete
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PandigitalProducts\obj\Debug\PandigitalProducts.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\PandigitalProducts\obj\Debug\PandigitalProducts.pdb

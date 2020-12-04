@@ -14,3 +14,12 @@ C:\Users\jjaspe\Documents\Git\EulerProjects\QuadraticPrimes\bin\Debug\EulerMisc.
 C:\Users\jjaspe\Documents\Git\EulerProjects\QuadraticPrimes\obj\Debug\QuadraticPrimes.csprojResolveAssemblyReference.cache
 C:\Users\jjaspe\Documents\Git\EulerProjects\QuadraticPrimes\obj\Debug\QuadraticPrimes.exe
 C:\Users\jjaspe\Documents\Git\EulerProjects\QuadraticPrimes\obj\Debug\QuadraticPrimes.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimes\bin\Debug\QuadraticPrimes.exe.config
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimes\bin\Debug\QuadraticPrimes.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimes\bin\Debug\QuadraticPrimes.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimes\bin\Debug\EulerMisc.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimes\bin\Debug\EulerMisc.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimes\obj\Debug\QuadraticPrimes.csprojAssemblyReference.cache
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimes\obj\Debug\QuadraticPrimes.csproj.CopyComplete
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimes\obj\Debug\QuadraticPrimes.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuadraticPrimes\obj\Debug\QuadraticPrimes.pdb
