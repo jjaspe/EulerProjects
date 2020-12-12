@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EulerMisc", "EulerMisc\EulerMisc.csproj", "{0087CC1E-C621-489C-A0E1-515CD861A6CF}"
 EndProject
@@ -34,6 +34,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderTheRainbow493", "UnderTheRainbow493\UnderTheRainbow493.csproj", "{0632E0F5-1280-48EF-8FFD-0539318DF2C3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem35CircularPrimes", "Problem35CircularPrimes\Problem35CircularPrimes.csproj", "{478C965D-F99A-49F7-BA9E-FF2C0D7EE04E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topgram", "Topgram\Topgram.csproj", "{0BB8F439-2B22-47E2-ABC8-88D1B16AE668}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,8 +107,15 @@ Global
 		{478C965D-F99A-49F7-BA9E-FF2C0D7EE04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{478C965D-F99A-49F7-BA9E-FF2C0D7EE04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{478C965D-F99A-49F7-BA9E-FF2C0D7EE04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB8F439-2B22-47E2-ABC8-88D1B16AE668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB8F439-2B22-47E2-ABC8-88D1B16AE668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB8F439-2B22-47E2-ABC8-88D1B16AE668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB8F439-2B22-47E2-ABC8-88D1B16AE668}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3FD571E-62CE-48B2-B652-6573F1AF1D83}
 	EndGlobalSection
 EndGlobal
