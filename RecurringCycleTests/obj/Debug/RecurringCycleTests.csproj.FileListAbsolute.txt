@@ -12,3 +12,12 @@ C:\Users\jjaspe\Documents\Git\EulerProjects\RecurringCycleTests\bin\Debug\Recurr
 C:\Users\jjaspe\Documents\Git\EulerProjects\RecurringCycleTests\obj\Debug\RecurringCycleTests.csprojResolveAssemblyReference.cache
 C:\Users\jjaspe\Documents\Git\EulerProjects\RecurringCycleTests\obj\Debug\RecurringCycleTests.dll
 C:\Users\jjaspe\Documents\Git\EulerProjects\RecurringCycleTests\obj\Debug\RecurringCycleTests.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\RecurringCycleTests\bin\Debug\RecurringCycleTests.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\RecurringCycleTests\bin\Debug\RecurringCycleTests.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\RecurringCycleTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\RecurringCycleTests\bin\Debug\RecurringCycle.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\RecurringCycleTests\bin\Debug\RecurringCycle.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\RecurringCycleTests\obj\Debug\RecurringCycleTests.csprojAssemblyReference.cache
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\RecurringCycleTests\obj\Debug\RecurringCycleTests.csproj.CopyComplete
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\RecurringCycleTests\obj\Debug\RecurringCycleTests.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\RecurringCycleTests\obj\Debug\RecurringCycleTests.pdb

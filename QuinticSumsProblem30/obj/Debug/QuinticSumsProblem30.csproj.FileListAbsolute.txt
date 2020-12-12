@@ -11,3 +11,12 @@ C:\Users\jjaspe\Documents\Git\EulerProjects\QuinticSumsProblem30\bin\Debug\Euler
 C:\Users\jjaspe\Documents\Git\EulerProjects\QuinticSumsProblem30\obj\Debug\QuinticSumsProblem30.csprojResolveAssemblyReference.cache
 C:\Users\jjaspe\Documents\Git\EulerProjects\QuinticSumsProblem30\obj\Debug\QuinticSumsProblem30.exe
 C:\Users\jjaspe\Documents\Git\EulerProjects\QuinticSumsProblem30\obj\Debug\QuinticSumsProblem30.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuinticSumsProblem30\bin\Debug\QuinticSumsProblem30.exe.config
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuinticSumsProblem30\bin\Debug\QuinticSumsProblem30.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuinticSumsProblem30\bin\Debug\QuinticSumsProblem30.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuinticSumsProblem30\bin\Debug\EulerMisc.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuinticSumsProblem30\bin\Debug\EulerMisc.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuinticSumsProblem30\obj\Debug\QuinticSumsProblem30.csproj.CopyComplete
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuinticSumsProblem30\obj\Debug\QuinticSumsProblem30.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuinticSumsProblem30\obj\Debug\QuinticSumsProblem30.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\QuinticSumsProblem30\obj\Debug\QuinticSumsProblem30.csprojAssemblyReference.cache

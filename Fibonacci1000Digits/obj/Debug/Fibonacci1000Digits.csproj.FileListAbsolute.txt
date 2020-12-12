@@ -12,3 +12,11 @@ C:\Users\jjaspe\Documents\Git\EulerProjects\Fibonacci1000Digits\bin\Debug\EulerM
 C:\Users\jjaspe\Documents\Git\EulerProjects\Fibonacci1000Digits\obj\Debug\Fibonacci1000Digits.csprojResolveAssemblyReference.cache
 C:\Users\jjaspe\Documents\Git\EulerProjects\Fibonacci1000Digits\obj\Debug\Fibonacci1000Digits.exe
 C:\Users\jjaspe\Documents\Git\EulerProjects\Fibonacci1000Digits\obj\Debug\Fibonacci1000Digits.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\Fibonacci1000Digits\bin\Debug\Fibonacci1000Digits.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\Fibonacci1000Digits\bin\Debug\Fibonacci1000Digits.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\Fibonacci1000Digits\bin\Debug\EulerMisc.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\Fibonacci1000Digits\bin\Debug\EulerMisc.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\Fibonacci1000Digits\obj\Debug\Fibonacci1000Digits.csprojAssemblyReference.cache
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\Fibonacci1000Digits\obj\Debug\Fibonacci1000Digits.csproj.CopyComplete
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\Fibonacci1000Digits\obj\Debug\Fibonacci1000Digits.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\Fibonacci1000Digits\obj\Debug\Fibonacci1000Digits.pdb

@@ -7,3 +7,8 @@ C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMisc\bin\Debug\EulerMisc.pdb
 C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMisc\obj\Debug\EulerMisc.dll
 C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMisc\obj\Debug\EulerMisc.pdb
 C:\Users\jjaspe\Documents\Git\EulerProjects\EulerMisc\obj\Debug\EulerMisc.csprojResolveAssemblyReference.cache
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\EulerMisc\bin\Debug\EulerMisc.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\EulerMisc\bin\Debug\EulerMisc.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\EulerMisc\obj\Debug\EulerMisc.dll
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\EulerMisc\obj\Debug\EulerMisc.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\EulerMisc\obj\Debug\EulerMisc.csprojAssemblyReference.cache

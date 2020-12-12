@@ -8,3 +8,8 @@ C:\Users\jjaspe\Documents\Git\EulerProjects\SmallestTriangleSum\bin\Debug\Smalle
 C:\Users\jjaspe\Documents\Git\EulerProjects\SmallestTriangleSum\obj\Debug\SmallestTriangleSum150.csprojResolveAssemblyReference.cache
 C:\Users\jjaspe\Documents\Git\EulerProjects\SmallestTriangleSum\obj\Debug\SmallestTriangleSum.exe
 C:\Users\jjaspe\Documents\Git\EulerProjects\SmallestTriangleSum\obj\Debug\SmallestTriangleSum.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\SmallestTriangleSum\bin\Debug\SmallestTriangleSum.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\SmallestTriangleSum\bin\Debug\SmallestTriangleSum.pdb
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\SmallestTriangleSum\obj\Debug\SmallestTriangleSum150.csprojAssemblyReference.cache
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\SmallestTriangleSum\obj\Debug\SmallestTriangleSum.exe
+C:\Users\Juan Jaspe\Documents\Projects\EulerProjects\SmallestTriangleSum\obj\Debug\SmallestTriangleSum.pdb
