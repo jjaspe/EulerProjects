@@ -72,3 +72,11 @@ obj/
 _ReSharper*/
 [Tt]est[Rr]esult*
 node_modules/*
+/.vs/EulerProjects/v16/TestStore/0/016.testlog
+/.vs/EulerProjects/v16/TestStore/0/testlog.manifest
+/packages
+packages*/
+*.orig
+bin/
+**/bin/*
+*/bin/*
