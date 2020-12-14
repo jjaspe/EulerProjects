@@ -1,4 +1,0 @@
-C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\SmallestTriangleSum\bin\Debug\SmallestTriangleSum.exe
-C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\SmallestTriangleSum\bin\Debug\SmallestTriangleSum.pdb
-C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\SmallestTriangleSum\obj\Debug\SmallestTriangleSum.exe
-C:\Users\Wichito\Documents\Visual Studio 2013\Projects\EulerProjects\SmallestTriangleSum\obj\Debug\SmallestTriangleSum.pdb

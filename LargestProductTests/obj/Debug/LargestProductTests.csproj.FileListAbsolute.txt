@@ -1,7 +1,0 @@
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LargestProductTests\bin\Debug\LargestProductTests.dll
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LargestProductTests\bin\Debug\LargestProductTests.pdb
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LargestProductTests\bin\Debug\EulerProjects.exe
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LargestProductTests\bin\Debug\EulerProjects.pdb
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LargestProductTests\obj\Debug\LargestProductTests.csprojResolveAssemblyReference.cache
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LargestProductTests\obj\Debug\LargestProductTests.dll
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\LargestProductTests\obj\Debug\LargestProductTests.pdb

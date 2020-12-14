@@ -1,8 +1,0 @@
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Collatz\bin\Debug\Collatz.exe.config
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Collatz\bin\Debug\Collatz.exe
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Collatz\bin\Debug\Collatz.pdb
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Collatz\bin\Debug\EulerMisc.dll
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Collatz\bin\Debug\EulerMisc.pdb
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Collatz\obj\Debug\Collatz.csprojResolveAssemblyReference.cache
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Collatz\obj\Debug\Collatz.exe
-C:\Users\Wichito\documents\visual studio 2013\Projects\EulerProjects\Collatz\obj\Debug\Collatz.pdb
