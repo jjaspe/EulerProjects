@@ -81,3 +81,4 @@ bin/
 **/bin/*
 */bin/*
 .vs/
+*.pyc
