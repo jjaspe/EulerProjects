@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="_2DSandbox.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_2DSandbox"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    xmlns:canvas="using:Microsoft.Graphics.Canvas.UI.Xaml">
+
+    <Grid Margin="0,89,0,0">
+        <Button Margin="253,-60,0,0" VerticalAlignment="Top" Click="Button_Click">Next</Button>
+        <Button Margin="99,-60,0,0" VerticalAlignment="Top" Click="Button_Click_1">Continue</Button>
+        <Button Margin="0,-60,0,0" VerticalAlignment="Top" Click="Button_Click_2">Stop</Button>
+        <Button Margin="368,-60,0,0" VerticalAlignment="Top" Click="Button_Click_3">Restart</Button>
+        <Button Margin="624,-60,0,0" VerticalAlignment="Top" Click="Button_Click_4">LoadHistory</Button>
+        <Button Margin="486,-60,0,0" VerticalAlignment="Top" Click="Button_Click_5">LoadSolution</Button>
+        <Button Margin="750,-60,0,0" VerticalAlignment="Top" Click="Button_Click_6">Speed Up</Button>
+        <canvas:CanvasAnimatedControl Draw="CanvasControl_Draw" CreateResources ="CanvasAnimatedControl_CreateResources"  ClearColor="White"/>
+    </Grid>
+</Page>
